@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @charlottej2017
-- 👀 I’m interested in HTML/CSS
-- 🌱 I’m currently researching different certification to learn HTML/CSS
+- 👀 I’m interested in HTML/CSS/Java Script/React.js
+- 🌱 Completed SheCodes Pro Certfication
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me charlottejones74@gmail.com
 
 <!---
 charlottej2017/charlottej2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
